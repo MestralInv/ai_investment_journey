@@ -18,12 +18,6 @@ ENV/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Data files
-*.csv
-*.xlsx
-*.xls
-data/local/
-
 # Environment variables
 .env
 .env.local
